@@ -1,0 +1,24 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Ignore configuration files
+appsettings.Development.json
+
+# Ignore database files
+*.db
+
+# Ignore any log files
+*.log
+
+# Ignore migrations
+Migrations/
+
+# Ignore MacOS system files
+.DS_Store
